@@ -1,0 +1,13 @@
+C:\Users\Thomas\Documents\GitHub\Esilv_S7_ADSA\Step 1\bin\Debug\netcoreapp3.1\Step 1.exe
+C:\Users\Thomas\Documents\GitHub\Esilv_S7_ADSA\Step 1\bin\Debug\netcoreapp3.1\Step 1.deps.json
+C:\Users\Thomas\Documents\GitHub\Esilv_S7_ADSA\Step 1\bin\Debug\netcoreapp3.1\Step 1.runtimeconfig.json
+C:\Users\Thomas\Documents\GitHub\Esilv_S7_ADSA\Step 1\bin\Debug\netcoreapp3.1\Step 1.runtimeconfig.dev.json
+C:\Users\Thomas\Documents\GitHub\Esilv_S7_ADSA\Step 1\bin\Debug\netcoreapp3.1\Step 1.dll
+C:\Users\Thomas\Documents\GitHub\Esilv_S7_ADSA\Step 1\bin\Debug\netcoreapp3.1\Step 1.pdb
+C:\Users\Thomas\Documents\GitHub\Esilv_S7_ADSA\Step 1\obj\Debug\netcoreapp3.1\Step 1.csprojAssemblyReference.cache
+C:\Users\Thomas\Documents\GitHub\Esilv_S7_ADSA\Step 1\obj\Debug\netcoreapp3.1\Step 1.AssemblyInfoInputs.cache
+C:\Users\Thomas\Documents\GitHub\Esilv_S7_ADSA\Step 1\obj\Debug\netcoreapp3.1\Step 1.AssemblyInfo.cs
+C:\Users\Thomas\Documents\GitHub\Esilv_S7_ADSA\Step 1\obj\Debug\netcoreapp3.1\Step 1.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\GitHub\Esilv_S7_ADSA\Step 1\obj\Debug\netcoreapp3.1\Step 1.dll
+C:\Users\Thomas\Documents\GitHub\Esilv_S7_ADSA\Step 1\obj\Debug\netcoreapp3.1\Step 1.pdb
+C:\Users\Thomas\Documents\GitHub\Esilv_S7_ADSA\Step 1\obj\Debug\netcoreapp3.1\Step 1.genruntimeconfig.cache
